@@ -1,3 +1,3 @@
 # DiceGameJS
 
-[DiceGame link] (https://sameershaik-sudo.github.io/DiceGameJS/)
+[DiceGame link](https://sameershaik-sudo.github.io/DiceGameJS/)
